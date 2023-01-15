@@ -1,8 +1,6 @@
-import Logo from './Images/Logo.png'
+import Logo from './assets/Images/Logo.png'
 import './App.css';
-import Card from './Card';
-import Footer from './Footer';
-import Navbar from './Navbar';
+import { Card, Footer } from './Components'
 
 function App() {
   return (
